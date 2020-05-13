@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://forrestprzybysz.ghost.io",
+    "contentApiKey": "bd5b46b951d104574f707b55db"  
+  },
+  "production": {
+    "apiUrl": "https://forrestprzybysz.ghost.io",
+    "contentApiKey": "bd5b46b951d104574f707b55db"  
+  }
+}
